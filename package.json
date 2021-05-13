@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  },
+  "dependencies": {
+    "playwright-chromium": "^1.11.0",
+    "playwright-webkit": "^1.11.0",
+    "tiktok-api": "^0.4.1",
+    "tiktok-signature": "^1.1.11"
+  }
+}
